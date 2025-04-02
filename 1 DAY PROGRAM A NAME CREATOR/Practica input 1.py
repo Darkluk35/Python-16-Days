@@ -4,4 +4,4 @@
 #¿Qué estás estudiando?
 #El código debe poder imprimir en pantalla lo ingresado por el usuario (utilizando print).
 
-print(input("What you study?"))
+print(input("What are you studying?"))
